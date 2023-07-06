@@ -1,4 +1,4 @@
-### Hi there 👋
+### i make random stuff
 
 <!--
 **SuperO1k/SuperO1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
