@@ -8,7 +8,7 @@ I primarly code in LUA, Python, C#
 I'm currently working on games such as: SANIC IS REAL, Brick Ball, etc.
 
 # **Who am I?**
-I'm a Danish game developer, I began developing games in Unity when I was 10 years old!
+I'm a Danish game developer, I began developing games in Unity when I was 10 years old! I also make other random stuff
 
 # **What tools do I use?**
 For game development, I use: Unity, Visual Studio, paint.NET, Audacity, Blender and, BandLab
